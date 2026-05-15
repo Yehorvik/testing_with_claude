@@ -1,0 +1,17 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+prisma/*.db-journal
+prisma/*.db-wal
+prisma/*.db-shm
+
+# MCP tool artifacts
+.playwright-mcp/
+
+# Logs
+*.log
+npm-debug.log*
+
